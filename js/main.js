@@ -7,7 +7,7 @@
 (function () {
   "use strict";
 
-  const EMAIL = "umanagabasnet87@gmail.com";
+  const EMAIL = "umangabasnet87@gmail.com";
 
   /* ---------- Season stats: edit these numbers ---------- */
   const SEASONS = {
